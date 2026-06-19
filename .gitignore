@@ -1,0 +1,5 @@
+.kbin/
+__pycache__/
+*.pyc
+samples.pkl
+autotuner.pkl
